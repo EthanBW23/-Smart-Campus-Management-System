@@ -7,12 +7,14 @@ A Java-based desktop application that helps manage student records, classroom in
 
 - **Student Management**
   - Add, update, delete, and view student records
-  - Fields: Student ID, Name, Course, Year, Email
+  - Manage students with Student ID, Name, Course, Year and Email
 
 - **Classroom Management**
+  - Add, update, delete, and view classroom details
   - Manage classrooms with room numbers and capacity
 
 - **Resource Tracking**
+  - Add, update, delete, and track resource information
   - Manage campus resources (e.g., books, equipment) with quantity and type
 
 - **User Interface**
