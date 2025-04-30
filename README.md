@@ -29,3 +29,31 @@ A Java-based desktop application that helps manage student records, classroom in
 3. Run the main class:
    ```java
    Smart_Campus_Management_System.SmartCampusApp
+
+## Technologies Used
+
+- Java 1.8
+- Java Swing
+- File I/O
+
+## File Structure
+
+Smart_Campus_Management_System/
+├── student.java
+├── studentManager.java
+├── studentWindow.java
+├── classroom.java
+├── classroomManager.java
+├── classroomWindow.java
+├── resource.java
+├── resourceManager.java
+├── resourceWindow.java
+├── mainWindow.java
+├── SmartCampusApp.java
+├── students.txt
+├── classrooms.txt
+├── resources.txt
+
+## Information
+
+This project was created for educational purposes as part of a university coursework submission.  
